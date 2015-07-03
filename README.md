@@ -25,8 +25,6 @@ If you haven't already, you'll need a TeX engine your computer in order to compi
 
 1. Download all files in this repo to your local machine. Make sure they are in the same directory.
 2. Open `LatexExample.tex` in a TeX editor such as TexWorks and compile the document. It should look like the included `LatexExample.pdf` document.
-3. ???
-4. Profit!
 
 ## Other resources
 
